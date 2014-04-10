@@ -1,0 +1,7 @@
+Quadtree==0.1.2
+argparse==1.2.1
+distribute==0.6.24
+numpy==1.8.1
+panda==0.1.4
+peewee==2.2.2
+wsgiref==0.1.2
